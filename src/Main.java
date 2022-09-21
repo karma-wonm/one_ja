@@ -12,6 +12,6 @@ public class Main {
         System.out.println((water / eaters) + " миллилитров воды");
         System.out.println((potatoes / eaters) + " картофелин(а)");
         System.out.println((chiken / eaters) + " куриных(ое) бедер(ро)");
-        System.out.println((spices /eaters) + " ложек(ка)");
+        System.out.println((spices / eaters) + " ложек(ка) специй");
     }
 }
